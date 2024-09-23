@@ -2,11 +2,11 @@
 
 This is a simple code for integrating an AI chatbot powered by the OpenAI Assistants API into Qualtrics surveys. The detailed explanation can be read in the tutorial:
 
-[Integrating an AI Chatbot into Qualtrics Surveys: A Step-by-Step Guide](https://github.com/alizarif/QualtricsAIChatbot/blob/main/Tutorial.pdf)
+[Integrating an AI Chatbot into Qualtrics Surveys](https://github.com/alizarif/QualtricsAIChatbot/blob/main/Tutorial.pdf)
 
 ## Please cite the following if you use it:
 
-Zarif, A. (2023). Integrating an AI Chatbot into Qualtrics Surveys: A Step-by-Step Guide.
+Zarifhonarvar, A. (2023). Integrating an AI Chatbot into Qualtrics Surveys.
 
 ### BibTeX:
 
