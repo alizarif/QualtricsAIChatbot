@@ -12,9 +12,9 @@ Zarif, A. (2023). Integrating an AI Chatbot into Qualtrics Surveys: A Step-by-St
 
 ```bibtex
 @misc{zarif2023integrating,
-  title={Integrating an AI Chatbot into Qualtrics Surveys: A Step-by-Step Guide},
-  author={Zarif, Ali},
-  year={2023},
+  title={Integrating an AI Chatbot into Qualtrics Surveys},
+  author={Zarifhonarvar, Ali},
+  year={2024},
   howpublished={\url{https://github.com/alizarif/QualtricsAIChatbot}}
 }
-'''
+
