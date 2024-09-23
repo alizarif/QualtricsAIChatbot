@@ -6,7 +6,7 @@ This is a simple code for integrating an AI chatbot powered by the OpenAI Assist
 
 ## Please cite the following if you use it:
 
-Zarifhonarvar, A. (2023). Integrating an AI Chatbot into Qualtrics Surveys.
+Zarifhonarvar, A. (2024). Integrating an AI Chatbot into Qualtrics Surveys.
 
 ### BibTeX:
 
