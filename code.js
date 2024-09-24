@@ -3,7 +3,7 @@ Qualtrics.SurveyEngine.addOnload(function() {
 
     // OpenAI API configuration
     var apiKey = "Open_AI_API_KEY";
-    var assistantId = "asst_oNKRSAgYnh2xUEjtmPbHyj7F"; 
+    var assistantId = "assistant_id"; 
     var threadId = null;
 
     // Create chat interface
