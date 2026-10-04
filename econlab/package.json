@@ -1,0 +1,14 @@
+{
+  "name": "econlab",
+  "version": "0.1.0",
+  "description": "Design and run behavioural / experimental economics experiments in the browser (an oTree-style platform with a visual builder).",
+  "type": "module",
+  "private": true,
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js",
+    "test": "node --test test/*.test.js",
+    "e2e": "node test/e2e.mjs && node test/e2e-editor.mjs"
+  }
+}
